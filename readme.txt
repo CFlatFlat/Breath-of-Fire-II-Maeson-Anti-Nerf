@@ -26,9 +26,6 @@ Fusion Anti-Nerf:
 			-Adding Shin to Seso: +5% Sta & +5% Agi -> +20% AP
 			-Adding Seso to Solo: -5% Agi & +10% AP & +15% Wis -> +20% Wis
 			-Adding Seny to Solo: Nothing -> +20% AP
-	
-	Jean:
-		Gave Seny + Spoo +10% Strength 
 		
 	
 	I noticed that the editor program had quite a few inaccuries and inconsistincies in its labeling, so while I've tried to work around that, there might be something off if there was an inaccuracy I missed.
@@ -61,4 +58,5 @@ Transformation Freedom:
 Deis Anti-Nerf:
 	Reverts Deis's starting stats back to their original values. She's a god! How can you nerf a god? What a grand and intoxicating innocence.
 	
+
 	I feel like Maeson's nerfs to her diminish her identity within the context of the series, particularly the drastic reduction to her HP and MP. One of her main traits in the first game is that she's incredibly tanky despite filling the role of a black mage. The fact that she's as powerful as she is in the original game was never a problem, imo, and like Ryu, she was balanced out by not being able to fuse.
