@@ -1,5 +1,4 @@
 The patches are for the Breath of Fire II: Maeson hack. Intended for the original translation. 
-	(I wish there was a hack to simply touch up the script and fix the names, grammatical errors, etc. I personally can't stand Ryuusi's unfaithful and needlessly edgy "retranslation.")
 
 
 
@@ -60,4 +59,5 @@ Deis Anti-Nerf:
 	
 
 	I feel like Maeson's nerfs to her diminish her identity within the context of the series, particularly the drastic reduction to her HP and MP. One of her main traits in the first game is that she's incredibly tanky despite filling the role of a black mage. The fact that she's as powerful as she is in the original game was never a problem, imo, and like Ryu, she was balanced out by not being able to fuse.
+
 
