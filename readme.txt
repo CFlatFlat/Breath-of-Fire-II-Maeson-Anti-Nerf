@@ -10,7 +10,7 @@ Fusion Anti-Nerf:
 	-Shaman + Character fusions that give a greater bonus than normal give the full bonus instead of a reduced bonus. (50% vs 40%)
 	-Fusions added by Maeson that involve more than one shaman are generally removed.
 	
-	-Reverts the Transformations back to what stats they had in the vanilla game. I dislike the idea of having transformations hinder some of a character's stats (which can include the primary stats for their role). I believe it makes the system less diagetic and reduces the cool factor. Besides, it's quite difficult to keep every character alive throughout an entire dungeon, so the high stats reward you for playing well. The weird bizzaro transformations Maeson added have been removed in favor of some more logical and alternate combos that don't reverse their functions.
+	-Reverts the Transformations back to what stats they had in the vanilla game. I dislike the idea of having transformations hinder some of a character's stats (which can include the primary stats for their role). I believe it makes the system less diagetic and reduces the cool factor. Besides, it's quite difficult to keep every character alive throughout an entire dungeon, so the high stats reward you for playing well. The weird bizzaro transformations Maeson added have been removed (in favor of the Fusion Freedom patch, which adda some more logical alternate combos that don't reverse their functions).
 
 	Spar: 
 		-Shin is reverted from +15% WIS/+25% AP to +50% AP
@@ -59,6 +59,7 @@ Deis Anti-Nerf:
 	
 
 	I feel like Maeson's nerfs to her diminish her identity within the context of the series, particularly the drastic reduction to her HP and MP. One of her main traits in the first game is that she's incredibly tanky despite filling the role of a black mage. The fact that she's as powerful as she is in the original game was never a problem, imo, and like Ryu, she was balanced out by not being able to fuse.
+
 
 
 
