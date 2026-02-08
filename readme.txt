@@ -3,7 +3,7 @@ The patches are for the Breath of Fire II: Maeson hack. Intended for the origina
 
 
 Fusion Anti-Nerf:
-	-Seny gives +25% AP (or +20% AP for fusions) instead of a variable mix of +10% and +15% with AP and one other stat, making her bonus the same as Shin's. This change does not apply to =Jean, and there are no characters that allow you to stack the two basic bonuses.
+	-Seny gives +25% AP (or +20% AP for fusions) instead of a variable mix of +10% and +15% with AP and one other stat, making her bonus the same as Shin's. This change does not apply to Jean, and there are no characters that allow you to stack the two basic bonuses.
 	-Removes Ryu's unexplained ability to fuse with Seny or Shin. This addition was probably an accident since there's no mention of it in Maeson's readme and it's inconsistent with the game's story.
 	
 	-Putting two shamans on one character will give the full bonus for each instead of reduced bonuses. (25%x2 vs 20%x2)
@@ -59,5 +59,6 @@ Deis Anti-Nerf:
 	
 
 	I feel like Maeson's nerfs to her diminish her identity within the context of the series, particularly the drastic reduction to her HP and MP. One of her main traits in the first game is that she's incredibly tanky despite filling the role of a black mage. The fact that she's as powerful as she is in the original game was never a problem, imo, and like Ryu, she was balanced out by not being able to fuse.
+
 
 
