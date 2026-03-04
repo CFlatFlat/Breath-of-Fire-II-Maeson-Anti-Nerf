@@ -3,6 +3,9 @@ The patches are for the Breath of Fire II: Maeson hack. Intended for the origina
 1.1:
 	-Fusion Anti-Nerf: Removed Katt's ability to fuse with Sana by herself. It did not occur to me that the fusion Maeson added was a full-on transformation rather than a simple strength increase.
 
+1.2:
+	-Transformation Freedom: Fixed Spar's fusion with Seso and Sana.
+
 
 
 Fusion Anti-Nerf:
@@ -60,5 +63,6 @@ Transformation Freedom:
 Deis Anti-Nerf:
 	Reverts Deis's starting stats back to their original values. She's a god! How can you nerf a god? What a grand and intoxicating innocence.
 	
+
 
 	I feel like Maeson's nerfs to her diminish her identity within the context of the series, particularly the drastic reduction to her HP and MP. One of her main traits in the first game is that she's incredibly tanky despite filling the role of a black mage. The fact that she's as powerful as she is in the original game was never a problem, imo, and like Ryu, she was balanced out by not being able to fuse.
